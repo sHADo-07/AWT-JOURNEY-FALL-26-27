@@ -11,11 +11,11 @@ function processOrder()
                 resolve
                 (
                     {
-                        ordrtID :42017,
-                        customer : "Arikh",
-                        item : "Chicken Burger",
-                        quantity : 2,
-                        total : 500,
+                        ordrtID :54928,
+                        customer : "Sadat",
+                        item : "Pizza",
+                        quantity : 3,
+                        total : 1500,
                     }
                 );
             }
